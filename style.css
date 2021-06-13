@@ -1,0 +1,50 @@
+.bigdiv{
+    border-radius: 20px;
+    background-color: grey;
+    font-family: 'Special Elite' , cursive;
+    color: black;
+}
+
+.maindiv{
+    border-radius: 10px;
+    background-color: whitesmoke;
+    
+}
+
+span{
+    color: blue;
+    box-shadow: grey;
+    background-color: cornsilk;
+}
+
+.mini_result{
+    color: white;
+    box-shadow: black;
+}
+
+img{
+    width: 350px;
+    height: 375px;
+    border-style: ridge;
+    border-radius: 2.5px;
+}
+
+h1 {
+    font-family: 'Special Elite' , cursive;
+    color:black;
+}
+
+#glh2 {
+    font-family: 'Special Elite' , cursive;
+    color : blue ;
+}
+
+#vs{
+    font-family: 'Special Elite' , cursive;
+    color:black;
+}
+
+#glh3 {
+    font-family: 'Special Elite' , cursive;
+    color : red ;
+}
