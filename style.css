@@ -48,3 +48,11 @@ h1 {
     font-family: 'Special Elite' , cursive;
     color : red ;
 }
+
+#conclusion {
+    border-radius: 20px;
+    background-color: grey;
+    font-family: 'Special Elite' , cursive;
+    color: black;
+    box-shadow: grey;   
+}
